@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  const FEED_URL = "/feed.json";
+  const FEED_URL = "./feed.json";
 
   document.addEventListener("DOMContentLoaded", function () {
 	initArchivePage();
