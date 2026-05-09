@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Sopravvivenza Culturale</title>
+    <link href="https://github.com/Beppe1988/sopravvivenzaculturale.github.io/feed.xml" rel="self" />
+    <link href="https://github.com/Beppe1988/sopravvivenzaculturale.github.io" />
+    <updated>2026-05-01T20:03:22+02:00</updated>
+    <author>
+        <name>Giuseppe Virzì</name>
+    </author>
+    <id>https://github.com/Beppe1988/sopravvivenzaculturale.github.io</id>
+
+    <entry>
+        <title>Test articolo geopolitica</title>
+        <author>
+            <name>Giuseppe Virzì</name>
+        </author>
+        <link href="https://github.com/Beppe1988/sopravvivenzaculturale.github.io/test-articolo-geopolitica/"/>
+        <id>https://github.com/Beppe1988/sopravvivenzaculturale.github.io/test-articolo-geopolitica/</id>
+        <media:content url="https://github.com/Beppe1988/sopravvivenzaculturale.github.io/media/posts/2/Gemini_Generated_Image_th9b48th9b48th9b.png" medium="image" />
+            <category term="Geopolitica"/>
+
+        <updated>2026-05-01T20:03:22+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://github.com/Beppe1988/sopravvivenzaculturale.github.io/media/posts/2/Gemini_Generated_Image_th9b48th9b48th9b.png" alt="geopolitica" />
+                    Questo è un articolo di test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://github.com/Beppe1988/sopravvivenzaculturale.github.io/media/posts/2/Gemini_Generated_Image_th9b48th9b48th9b.png" class="type:primaryImage" alt="geopolitica" /></p>
+                <p> </p>
+<p>Questo è un articolo di test</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

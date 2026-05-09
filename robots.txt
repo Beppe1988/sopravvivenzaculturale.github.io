@@ -1,0 +1,7 @@
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: GPTBot
+Disallow: /
+User-agent: *
+Disallow:
+Sitemap: https://github.com/Beppe1988/sopravvivenzaculturale.github.io/sitemap.xml
