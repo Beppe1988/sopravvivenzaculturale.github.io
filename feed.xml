@@ -3,12 +3,36 @@
     <title>Sopravvivenza Culturale</title>
     <link href="https://Beppe1988.github.io/sopravvivenzaculturale.github.io/feed.xml" rel="self" />
     <link href="https://Beppe1988.github.io/sopravvivenzaculturale.github.io" />
-    <updated>2026-05-01T20:03:22+02:00</updated>
+    <updated>2026-05-09T07:36:56+02:00</updated>
     <author>
         <name>Giuseppe Virzì</name>
     </author>
     <id>https://Beppe1988.github.io/sopravvivenzaculturale.github.io</id>
 
+    <entry>
+        <title>Secondo post</title>
+        <author>
+            <name>Giuseppe Virzì</name>
+        </author>
+        <link href="https://Beppe1988.github.io/sopravvivenzaculturale.github.io/secondo-post/"/>
+        <id>https://Beppe1988.github.io/sopravvivenzaculturale.github.io/secondo-post/</id>
+        <media:content url="https://Beppe1988.github.io/sopravvivenzaculturale.github.io/media/posts/10/manifesto-bg.png" medium="image" />
+            <category term="Cultura"/>
+
+        <updated>2026-05-09T07:36:56+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://Beppe1988.github.io/sopravvivenzaculturale.github.io/media/posts/10/manifesto-bg.png" alt="" />
+                    Secondo post
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://Beppe1988.github.io/sopravvivenzaculturale.github.io/media/posts/10/manifesto-bg.png" class="type:primaryImage" alt="" /></p>
+                <p>Secondo post</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Test articolo geopolitica</title>
         <author>

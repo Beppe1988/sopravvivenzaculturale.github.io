@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://Beppe1988.github.io/sopravvivenzaculturale.github.io/secondo-post/",
+            "url": "https://Beppe1988.github.io/sopravvivenzaculturale.github.io/secondo-post/",
+            "title": "Secondo post",
+            "summary": "Secondo post",
+            "content_html": "<p>Secondo post</p>",
+            "image": "https://Beppe1988.github.io/sopravvivenzaculturale.github.io/media/posts/10/manifesto-bg.png",
+            "author": {
+                "name": "Giuseppe Virzì"
+            },
+            "tags": [
+                   "Cultura"
+            ],
+            "date_published": "2026-05-09T07:36:56+02:00",
+            "date_modified": "2026-05-09T07:36:56+02:00"
+        },
+        {
             "id": "https://Beppe1988.github.io/sopravvivenzaculturale.github.io/test-articolo-geopolitica/",
             "url": "https://Beppe1988.github.io/sopravvivenzaculturale.github.io/test-articolo-geopolitica/",
             "title": "Test articolo geopolitica",
