@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  const FEED_URL = "./feed.json";
+  const FEED_URL = "/feed.json";
 
   document.addEventListener("DOMContentLoaded", function () {
 	initArchivePage();
@@ -190,7 +190,7 @@
               nell'età della tecnica.
             </p>
 
-            <a class="sc-side-manifesto__button" href="/manifesto/">
+            <a class="sc-side-manifesto__button" href="https://r-humanism.neocities.org/it/">
               Leggi il manifesto
             </a>
           </div>
@@ -635,3 +635,4 @@ function getItalianMonthName(monthIndex) {
 }
 
 })();
+
