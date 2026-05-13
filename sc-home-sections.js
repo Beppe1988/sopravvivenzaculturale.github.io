@@ -5,6 +5,7 @@
 
   document.addEventListener("DOMContentLoaded", function () {
 	initArchivePage();
+	insertFooterSocialLinks();
     const isHomepage = document.body.classList.contains("home-template");
 	
 
@@ -634,5 +635,91 @@ function getItalianMonthName(monthIndex) {
   return months[monthIndex] || "";
 }
 
+function insertFooterSocialLinks() {
+  const footerNav =
+    document.querySelector(".footer nav") ||
+    document.querySelector(".footer__nav")?.closest("nav");
+
+  if (!footerNav) {
+    return;
+  }
+
+  if (document.querySelector(".sc-footer-social")) {
+    return;
+  }
+
+  const socials = [
+    {
+      name: "Telegram",
+      url: "https://t.me/sopravvivenzaculturale",
+      icon: "./media/files/icon-telegram.png"
+    },
+    {
+      name: "X",
+      url: "https://x.com/sopracultura",
+      icon: "./media/files/icon-x.png"
+    },
+    {
+      name: "Facebook",
+      url: "https://www.facebook.com/sopravvivenzaculturale",
+      icon: "./media/files/icon-facebook.png"
+    }
+    /*{
+      name: "Instagram",
+      url: "#",
+      icon: "./media/files/icon-instagram.png"
+    },
+    {
+      name: "Mastodon",
+      url: "#",
+      icon: "./media/files/icon-mastodon.png"
+    },
+    {
+      name: "Reddit",
+      url: "#",
+      icon: "./media/files/icon-reddit.png"
+    }*/
+  ];
+
+  const socialDiv = document.createElement("div");
+  socialDiv.className = "sc-footer-social";
+  socialDiv.setAttribute("aria-label", "Profili social");
+
+  socialDiv.innerHTML = socials
+    .map(function (social) {
+      return `
+        <a class="sc-footer-social__link" href="${escapeAttr(social.url)}" aria-label="${escapeAttr(social.name)}" target="_blank" rel="noopener noreferrer">
+          <img src="${escapeAttr(social.icon)}" alt="" aria-hidden="true" loading="lazy">
+        </a>
+      `;
+    })
+    .join("");
+
+  footerNav.insertAdjacentElement("afterend", socialDiv);
+}
+
+function getSiteAssetUrl(path) {
+
+  const cleanPath = String(path || "").replace(/^\/+/, "");
+
+  if (window.location.protocol === "file:") {
+    return "./" + cleanPath;
+  }
+
+  if (window.location.hostname.endsWith("github.io")) {
+    const segments = window.location.pathname.split("/").filter(Boolean);
+    const firstSegment = segments[0] || "";
+
+    if (
+      firstSegment &&
+      !firstSegment.endsWith(".html") &&
+      !["assets", "media", "tags", "authors", "page"].includes(firstSegment)
+    ) {
+      return "/" + firstSegment + "/" + cleanPath;
+    }
+  }
+
+  return "/" + cleanPath;
+}
 })();
 
