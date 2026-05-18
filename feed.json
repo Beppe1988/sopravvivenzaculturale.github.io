@@ -2,21 +2,21 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Sopravvivenza Culturale",
     "description": "",
-    "home_page_url": "https://Beppe1988.github.io/sopravvivenzaculturale.github.io",
-    "feed_url": "https://Beppe1988.github.io/sopravvivenzaculturale.github.io/feed.json",
+    "home_page_url": "https://sopravvivenzaculturale.it",
+    "feed_url": "https://sopravvivenzaculturale.it/feed.json",
     "user_comment": "",
-    "icon": "https://Beppe1988.github.io/sopravvivenzaculturale.github.io/media/website/logo_transp_2.PNG",
+    "icon": "https://sopravvivenzaculturale.it/media/website/logo_transp_2.PNG",
     "author": {
         "name": "Giuseppe Virzì"
     },
     "items": [
         {
-            "id": "https://Beppe1988.github.io/sopravvivenzaculturale.github.io/secondo-post/",
-            "url": "https://Beppe1988.github.io/sopravvivenzaculturale.github.io/secondo-post/",
+            "id": "https://sopravvivenzaculturale.it/secondo-post/",
+            "url": "https://sopravvivenzaculturale.it/secondo-post/",
             "title": "Secondo post",
             "summary": "Secondo post",
             "content_html": "<p>Secondo post</p>",
-            "image": "https://Beppe1988.github.io/sopravvivenzaculturale.github.io/media/posts/10/manifesto-bg.png",
+            "image": "https://sopravvivenzaculturale.it/media/posts/10/manifesto-bg.png",
             "author": {
                 "name": "Giuseppe Virzì"
             },
@@ -27,12 +27,12 @@
             "date_modified": "2026-05-09T07:36:56+02:00"
         },
         {
-            "id": "https://Beppe1988.github.io/sopravvivenzaculturale.github.io/test-articolo-geopolitica/",
-            "url": "https://Beppe1988.github.io/sopravvivenzaculturale.github.io/test-articolo-geopolitica/",
+            "id": "https://sopravvivenzaculturale.it/test-articolo-geopolitica/",
+            "url": "https://sopravvivenzaculturale.it/test-articolo-geopolitica/",
             "title": "Test articolo geopolitica",
             "summary": "Questo è un articolo di test",
             "content_html": "<p> </p>\n<p>Questo è un articolo di test</p>",
-            "image": "https://Beppe1988.github.io/sopravvivenzaculturale.github.io/media/posts/2/Gemini_Generated_Image_th9b48th9b48th9b.png",
+            "image": "https://sopravvivenzaculturale.it/media/posts/2/Gemini_Generated_Image_th9b48th9b48th9b.png",
             "author": {
                 "name": "Giuseppe Virzì"
             },

@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Sopravvivenza Culturale</title>
-    <link href="https://Beppe1988.github.io/sopravvivenzaculturale.github.io/feed.xml" rel="self" />
-    <link href="https://Beppe1988.github.io/sopravvivenzaculturale.github.io" />
+    <link href="https://sopravvivenzaculturale.it/feed.xml" rel="self" />
+    <link href="https://sopravvivenzaculturale.it" />
     <updated>2026-05-09T07:36:56+02:00</updated>
     <author>
         <name>Giuseppe Virzì</name>
     </author>
-    <id>https://Beppe1988.github.io/sopravvivenzaculturale.github.io</id>
+    <id>https://sopravvivenzaculturale.it</id>
 
     <entry>
         <title>Secondo post</title>
         <author>
             <name>Giuseppe Virzì</name>
         </author>
-        <link href="https://Beppe1988.github.io/sopravvivenzaculturale.github.io/secondo-post/"/>
-        <id>https://Beppe1988.github.io/sopravvivenzaculturale.github.io/secondo-post/</id>
-        <media:content url="https://Beppe1988.github.io/sopravvivenzaculturale.github.io/media/posts/10/manifesto-bg.png" medium="image" />
+        <link href="https://sopravvivenzaculturale.it/secondo-post/"/>
+        <id>https://sopravvivenzaculturale.it/secondo-post/</id>
+        <media:content url="https://sopravvivenzaculturale.it/media/posts/10/manifesto-bg.png" medium="image" />
             <category term="Cultura"/>
 
         <updated>2026-05-09T07:36:56+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://Beppe1988.github.io/sopravvivenzaculturale.github.io/media/posts/10/manifesto-bg.png" alt="" />
+                        <img src="https://sopravvivenzaculturale.it/media/posts/10/manifesto-bg.png" alt="" />
                     Secondo post
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://Beppe1988.github.io/sopravvivenzaculturale.github.io/media/posts/10/manifesto-bg.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://sopravvivenzaculturale.it/media/posts/10/manifesto-bg.png" class="type:primaryImage" alt="" /></p>
                 <p>Secondo post</p>
             ]]>
         </content>
@@ -38,21 +38,21 @@
         <author>
             <name>Giuseppe Virzì</name>
         </author>
-        <link href="https://Beppe1988.github.io/sopravvivenzaculturale.github.io/test-articolo-geopolitica/"/>
-        <id>https://Beppe1988.github.io/sopravvivenzaculturale.github.io/test-articolo-geopolitica/</id>
-        <media:content url="https://Beppe1988.github.io/sopravvivenzaculturale.github.io/media/posts/2/Gemini_Generated_Image_th9b48th9b48th9b.png" medium="image" />
+        <link href="https://sopravvivenzaculturale.it/test-articolo-geopolitica/"/>
+        <id>https://sopravvivenzaculturale.it/test-articolo-geopolitica/</id>
+        <media:content url="https://sopravvivenzaculturale.it/media/posts/2/Gemini_Generated_Image_th9b48th9b48th9b.png" medium="image" />
             <category term="Geopolitica"/>
 
         <updated>2026-05-01T20:03:22+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://Beppe1988.github.io/sopravvivenzaculturale.github.io/media/posts/2/Gemini_Generated_Image_th9b48th9b48th9b.png" alt="geopolitica" />
+                        <img src="https://sopravvivenzaculturale.it/media/posts/2/Gemini_Generated_Image_th9b48th9b48th9b.png" alt="geopolitica" />
                     Questo è un articolo di test
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://Beppe1988.github.io/sopravvivenzaculturale.github.io/media/posts/2/Gemini_Generated_Image_th9b48th9b48th9b.png" class="type:primaryImage" alt="geopolitica" /></p>
+                    <p><img src="https://sopravvivenzaculturale.it/media/posts/2/Gemini_Generated_Image_th9b48th9b48th9b.png" class="type:primaryImage" alt="geopolitica" /></p>
                 <p> </p>
 <p>Questo è un articolo di test</p>
             ]]>
