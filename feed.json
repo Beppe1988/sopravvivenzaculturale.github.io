@@ -25,38 +25,6 @@
             ],
             "date_published": "2026-05-24T20:08:34+02:00",
             "date_modified": "2026-05-24T20:08:34+02:00"
-        },
-        {
-            "id": "https://sopravvivenzaculturale.it/secondo-post/",
-            "url": "https://sopravvivenzaculturale.it/secondo-post/",
-            "title": "Secondo post",
-            "summary": "Secondo post",
-            "content_html": "<p>Secondo post</p>",
-            "image": "https://sopravvivenzaculturale.it/media/posts/10/manifesto-bg.png",
-            "author": {
-                "name": "Giuseppe Virzì"
-            },
-            "tags": [
-                   "Cultura"
-            ],
-            "date_published": "2026-05-09T07:36:56+02:00",
-            "date_modified": "2026-05-09T07:36:56+02:00"
-        },
-        {
-            "id": "https://sopravvivenzaculturale.it/test-articolo-geopolitica/",
-            "url": "https://sopravvivenzaculturale.it/test-articolo-geopolitica/",
-            "title": "Test articolo geopolitica",
-            "summary": "Questo è un articolo di test",
-            "content_html": "<p> </p>\n<p>Questo è un articolo di test</p>",
-            "image": "https://sopravvivenzaculturale.it/media/posts/2/Gemini_Generated_Image_th9b48th9b48th9b.png",
-            "author": {
-                "name": "Giuseppe Virzì"
-            },
-            "tags": [
-                   "Geopolitica"
-            ],
-            "date_published": "2026-05-01T20:03:22+02:00",
-            "date_modified": "2026-05-01T20:03:22+02:00"
         }
     ]
 }
